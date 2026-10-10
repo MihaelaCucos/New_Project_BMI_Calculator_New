@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bmi2021/bin/Release/net10.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a1520e55-1e97-4054-913a-8a22af4c681f/resourceGroups/appsvc_windows_denmarkeast/providers/Microsoft.Web/sites/calculadora"
+}
