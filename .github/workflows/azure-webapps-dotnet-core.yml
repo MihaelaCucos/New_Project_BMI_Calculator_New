@@ -53,7 +53,7 @@ jobs:
     permissions:
       contents: none
     environment:
-      name: CalculatorSecret
+      name: Development
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
